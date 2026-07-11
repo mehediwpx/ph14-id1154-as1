@@ -50,8 +50,6 @@ h2 {
   justify-content: space-between;
   align-items: center;
 }
-.menu {
-}
 .menu ul {
   display: flex;
   justify-content: space-between;
